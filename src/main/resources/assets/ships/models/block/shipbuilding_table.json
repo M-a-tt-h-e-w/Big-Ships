@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "down": "minecraft:block/iron_block",
+        "east": "ships:block/shipbuilding_table_side",
+        "north": "ships:block/shipbuilding_table_front",
+        "particle": "ships:block/shipbuilding_table_front",
+        "south": "ships:block/shipbuilding_table_side",
+        "up": "ships:block/shipbuilding_table_top",
+        "west": "ships:block/shipbuilding_table_front"
+    }
+}

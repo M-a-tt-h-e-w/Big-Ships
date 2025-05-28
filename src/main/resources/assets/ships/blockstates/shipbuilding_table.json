@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "": {
+            "model": "ships:block/shipbuilding_table"
+        }
+    }
+}
